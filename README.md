@@ -17,7 +17,7 @@ This project leverages **Power BI** to visualize and simplify ATM network monito
 - Visual storytelling for better operational insights.  
 
 # Tools Used
-- **Power BI** → Data modeling, DAX calculations, and dashboards.  
+- **Power BI** → Data modeling, DAX calculations,and dashboards.  
 
 # Dashboard Preview
 
